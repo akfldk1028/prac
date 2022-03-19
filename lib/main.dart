@@ -26,7 +26,7 @@ class HomePage extends StatelessWidget {
         bottom: PreferredSize(
           preferredSize: Size(0, 60), // bottom 영역 크기
           child: Padding(
-            padding: const EdgeInsets.all(22222.0),
+            padding: const EdgeInsets.all(22.0),
           ),
         ),
       ),
